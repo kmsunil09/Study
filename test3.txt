@@ -1,0 +1,5 @@
+Anagrams.class	 dictionary.txt     ListShuffle.class  SortMe.java
+Anagrams.java	 DoWhileDemo.class  ListShuffle.java   test
+Comp.class	 DoWhileDemo.java   Shuffle.class      test3.txt
+Countdown.class  FindDups.class     Shuffle.java       TrivialApplication.class
+Countdown.java	 FindDups.java	    SortMe.class       TrivialApplication.java
